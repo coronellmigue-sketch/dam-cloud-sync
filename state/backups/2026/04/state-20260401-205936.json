@@ -1,0 +1,246 @@
+{
+  "version": 1,
+  "updatedAt": "2026-04-01T20:54:22.812Z",
+  "kv": {
+    "dam-image-present-105": "1",
+    "dam-cloud-checkpoint-v1": "{\"version\":1,\"createdAt\":\"2026-04-01T20:54:59.853Z\",\"expectedMediaKeys\":[\"flyer-img-101\",\"flyer-img-102\",\"flyer-img-103\",\"flyer-img-104\",\"flyer-img-105\",\"flyer-img-106\",\"flyer-img-107\",\"flyer-img-108\",\"flyer-img-109\",\"flyer-img-110\",\"who-series-img-201\",\"who-series-img-202\",\"who-series-img-203\",\"who-series-img-204\",\"who-series-img-205\",\"who-series-img-206\",\"dest-series-301\",\"dest-series-302\",\"dest-series-303\",\"dest-series-304\",\"dest-series-305\",\"dest-series-306\",\"dest-series-307\",\"dest-series-308\",\"connect-series-401\",\"connect-series-402\",\"connect-series-403\",\"connect-series-404\",\"connect-series-405\",\"connect-series-406\",\"landing-series-501\",\"portfolio-banner-509\",\"portfolio-series-510\",\"portfolio-series-511\",\"portfolio-series-512\",\"portfolio-series-513\",\"portfolio-series-514\",\"portfolio-series-515\",\"portfolio-series-516\",\"portfolio-series-517\",\"portfolio-series-518\",\"portfolio-series-519\",\"portfolio-series-520\",\"portfolio-series-521\",\"portfolio-series-522\",\"portfolio-series-523\",\"portfolio-series-524\"],\"expectedMediaCount\":47,\"presentExpectedCount\":17,\"presentMediaCount\":39,\"presentMediaKeys\":[\"carousel-img-1\",\"carousel-img-10\",\"carousel-img-7\",\"carousel-img-8\",\"carousel-img-9\",\"connect-series-402\",\"connect-series-403\",\"connect-series-404\",\"connect-series-405\",\"flyer-img-102\",\"flyer-img-105\",\"flyer-img-109\",\"landing-series-501\",\"portfolio-series-513\",\"portfolio-series-518\",\"portfolio-series-519\",\"portfolio-series-520\",\"portfolio-series-521\",\"portfolio-series-523\",\"portfolio-service-flyer-asesoria-visado-flyer-mndf5jwv-bv1x2\",\"portfolio-service-flyer-cruceros-flyer-mndd6jje-czyj2\",\"portfolio-service-flyer-cruceros-flyer-mndd6juj-ntkb1\",\"portfolio-service-flyer-paquetes-armados-flyer-mndez72n-id6pd\",\"portfolio-service-flyer-paquetes-todo-incluido-flyer-mndfem8s-y8pb9\",\"portfolio-service-flyer-paquetes-todo-incluido-flyer-mndfxzxr-fk3ex\",\"portfolio-service-flyer-paquetes-todo-incluido-flyer-mndfy0um-u8tb4\",\"portfolio-service-flyer-paquetes-todo-incluido-flyer-mndg1yyk-txea3\",\"portfolio-service-flyer-paquetes-todo-incluido-flyer-mndg1z5f-x4ak5\",\"portfolio-service-flyer-paquetes-ultimo-minuto-flyer-mndg41dv-evalq\",\"portfolio-service-flyer-renta-autos-flyer-mnddpxzz-9aw78\",\"portfolio-service-flyer-renta-autos-flyer-mnddpygx-hyywg\",\"portfolio-service-flyer-tarjeta-asistencia-flyer-mnddommj-avdq5\",\"portfolio-service-flyer-tarjeta-asistencia-flyer-mnddomu1-xh8t7\",\"portfolio-service-flyer-tarjeta-asistencia-flyer-mnddp0m0-f6flo\",\"portfolio-service-flyer-transporte-terrestre-flyer-mndd122g-s5fxt\",\"portfolio-service-flyer-transporte-terrestre-flyer-mndd12lg-8hbe3\",\"who-series-img-203\",\"who-series-img-204\",\"who-series-img-206\"],\"kvKeyCount\":4}",
+    "dam-image-present-109": "1",
+    "dam-image-present-102": "1"
+  },
+  "media": {
+    "carousel-img-1": {
+      "path": "media/carousel-img-1",
+      "contentType": "file",
+      "updatedAt": "2026-04-01T20:54:22.817Z",
+      "size": 58889
+    },
+    "carousel-img-10": {
+      "path": "media/carousel-img-10",
+      "contentType": "file",
+      "updatedAt": "2026-04-01T20:54:23.790Z",
+      "size": 232834
+    },
+    "carousel-img-7": {
+      "path": "media/carousel-img-7",
+      "contentType": "file",
+      "updatedAt": "2026-04-01T20:54:24.886Z",
+      "size": 95314
+    },
+    "carousel-img-8": {
+      "path": "media/carousel-img-8",
+      "contentType": "file",
+      "updatedAt": "2026-04-01T20:54:25.710Z",
+      "size": 109509
+    },
+    "carousel-img-9": {
+      "path": "media/carousel-img-9",
+      "contentType": "file",
+      "updatedAt": "2026-04-01T20:54:26.574Z",
+      "size": 58889
+    },
+    "connect-series-402": {
+      "path": "media/connect-series-402",
+      "contentType": "file",
+      "updatedAt": "2026-04-01T20:54:27.373Z",
+      "size": 554251
+    },
+    "connect-series-403": {
+      "path": "media/connect-series-403",
+      "contentType": "file",
+      "updatedAt": "2026-04-01T20:54:28.425Z",
+      "size": 180580
+    },
+    "connect-series-404": {
+      "path": "media/connect-series-404",
+      "contentType": "file",
+      "updatedAt": "2026-04-01T20:54:29.319Z",
+      "size": 411025
+    },
+    "connect-series-405": {
+      "path": "media/connect-series-405",
+      "contentType": "file",
+      "updatedAt": "2026-04-01T20:54:30.206Z",
+      "size": 135528
+    },
+    "flyer-img-102": {
+      "path": "media/flyer-img-102",
+      "contentType": "file",
+      "updatedAt": "2026-04-01T20:54:31.088Z",
+      "size": 450533
+    },
+    "flyer-img-105": {
+      "path": "media/flyer-img-105",
+      "contentType": "file",
+      "updatedAt": "2026-04-01T20:54:31.976Z",
+      "size": 114924
+    },
+    "flyer-img-109": {
+      "path": "media/flyer-img-109",
+      "contentType": "file",
+      "updatedAt": "2026-04-01T20:54:32.789Z",
+      "size": 233727
+    },
+    "landing-series-501": {
+      "path": "media/landing-series-501",
+      "contentType": "image/png",
+      "updatedAt": "2026-04-01T20:54:33.632Z",
+      "size": 554251
+    },
+    "portfolio-series-513": {
+      "path": "media/portfolio-series-513",
+      "contentType": "image/png",
+      "updatedAt": "2026-04-01T20:54:34.720Z",
+      "size": 834622
+    },
+    "portfolio-series-518": {
+      "path": "media/portfolio-series-518",
+      "contentType": "image/png",
+      "updatedAt": "2026-04-01T20:54:35.815Z",
+      "size": 285643
+    },
+    "portfolio-series-519": {
+      "path": "media/portfolio-series-519",
+      "contentType": "image/png",
+      "updatedAt": "2026-04-01T20:54:36.691Z",
+      "size": 789517
+    },
+    "portfolio-series-520": {
+      "path": "media/portfolio-series-520",
+      "contentType": "file",
+      "updatedAt": "2026-04-01T20:54:37.833Z",
+      "size": 839520
+    },
+    "portfolio-series-521": {
+      "path": "media/portfolio-series-521",
+      "contentType": "file",
+      "updatedAt": "2026-04-01T20:54:38.927Z",
+      "size": 286355
+    },
+    "portfolio-series-523": {
+      "path": "media/portfolio-series-523",
+      "contentType": "file",
+      "updatedAt": "2026-04-01T20:54:39.785Z",
+      "size": 470014
+    },
+    "portfolio-service-flyer-asesoria-visado-flyer-mndf5jwv-bv1x2": {
+      "path": "media/portfolio-service-flyer-asesoria-visado-flyer-mndf5jwv-bv1x2",
+      "contentType": "file",
+      "updatedAt": "2026-04-01T20:54:40.717Z",
+      "size": 627262
+    },
+    "portfolio-service-flyer-cruceros-flyer-mndd6jje-czyj2": {
+      "path": "media/portfolio-service-flyer-cruceros-flyer-mndd6jje-czyj2",
+      "contentType": "file",
+      "updatedAt": "2026-04-01T20:54:41.768Z",
+      "size": 257808
+    },
+    "portfolio-service-flyer-cruceros-flyer-mndd6juj-ntkb1": {
+      "path": "media/portfolio-service-flyer-cruceros-flyer-mndd6juj-ntkb1",
+      "contentType": "file",
+      "updatedAt": "2026-04-01T20:54:42.682Z",
+      "size": 261251
+    },
+    "portfolio-service-flyer-paquetes-armados-flyer-mndez72n-id6pd": {
+      "path": "media/portfolio-service-flyer-paquetes-armados-flyer-mndez72n-id6pd",
+      "contentType": "file",
+      "updatedAt": "2026-04-01T20:54:43.575Z",
+      "size": 270678
+    },
+    "portfolio-service-flyer-paquetes-todo-incluido-flyer-mndfem8s-y8pb9": {
+      "path": "media/portfolio-service-flyer-paquetes-todo-incluido-flyer-mndfem8s-y8pb9",
+      "contentType": "file",
+      "updatedAt": "2026-04-01T20:54:44.409Z",
+      "size": 284681
+    },
+    "portfolio-service-flyer-paquetes-todo-incluido-flyer-mndfxzxr-fk3ex": {
+      "path": "media/portfolio-service-flyer-paquetes-todo-incluido-flyer-mndfxzxr-fk3ex",
+      "contentType": "file",
+      "updatedAt": "2026-04-01T20:54:45.250Z",
+      "size": 358460
+    },
+    "portfolio-service-flyer-paquetes-todo-incluido-flyer-mndfy0um-u8tb4": {
+      "path": "media/portfolio-service-flyer-paquetes-todo-incluido-flyer-mndfy0um-u8tb4",
+      "contentType": "file",
+      "updatedAt": "2026-04-01T20:54:46.143Z",
+      "size": 358460
+    },
+    "portfolio-service-flyer-paquetes-todo-incluido-flyer-mndg1yyk-txea3": {
+      "path": "media/portfolio-service-flyer-paquetes-todo-incluido-flyer-mndg1yyk-txea3",
+      "contentType": "file",
+      "updatedAt": "2026-04-01T20:54:47.044Z",
+      "size": 450533
+    },
+    "portfolio-service-flyer-paquetes-todo-incluido-flyer-mndg1z5f-x4ak5": {
+      "path": "media/portfolio-service-flyer-paquetes-todo-incluido-flyer-mndg1z5f-x4ak5",
+      "contentType": "file",
+      "updatedAt": "2026-04-01T20:54:47.908Z",
+      "size": 407645
+    },
+    "portfolio-service-flyer-paquetes-ultimo-minuto-flyer-mndg41dv-evalq": {
+      "path": "media/portfolio-service-flyer-paquetes-ultimo-minuto-flyer-mndg41dv-evalq",
+      "contentType": "file",
+      "updatedAt": "2026-04-01T20:54:48.796Z",
+      "size": 626223
+    },
+    "portfolio-service-flyer-renta-autos-flyer-mnddpxzz-9aw78": {
+      "path": "media/portfolio-service-flyer-renta-autos-flyer-mnddpxzz-9aw78",
+      "contentType": "file",
+      "updatedAt": "2026-04-01T20:54:49.812Z",
+      "size": 634174
+    },
+    "portfolio-service-flyer-renta-autos-flyer-mnddpygx-hyywg": {
+      "path": "media/portfolio-service-flyer-renta-autos-flyer-mnddpygx-hyywg",
+      "contentType": "file",
+      "updatedAt": "2026-04-01T20:54:50.873Z",
+      "size": 712318
+    },
+    "portfolio-service-flyer-tarjeta-asistencia-flyer-mnddommj-avdq5": {
+      "path": "media/portfolio-service-flyer-tarjeta-asistencia-flyer-mnddommj-avdq5",
+      "contentType": "file",
+      "updatedAt": "2026-04-01T20:54:51.960Z",
+      "size": 912559
+    },
+    "portfolio-service-flyer-tarjeta-asistencia-flyer-mnddomu1-xh8t7": {
+      "path": "media/portfolio-service-flyer-tarjeta-asistencia-flyer-mnddomu1-xh8t7",
+      "contentType": "file",
+      "updatedAt": "2026-04-01T20:54:53.102Z",
+      "size": 180580
+    },
+    "portfolio-service-flyer-tarjeta-asistencia-flyer-mnddp0m0-f6flo": {
+      "path": "media/portfolio-service-flyer-tarjeta-asistencia-flyer-mnddp0m0-f6flo",
+      "contentType": "file",
+      "updatedAt": "2026-04-01T20:54:53.945Z",
+      "size": 797617
+    },
+    "portfolio-service-flyer-transporte-terrestre-flyer-mndd122g-s5fxt": {
+      "path": "media/portfolio-service-flyer-transporte-terrestre-flyer-mndd122g-s5fxt",
+      "contentType": "file",
+      "updatedAt": "2026-04-01T20:54:54.927Z",
+      "size": 777335
+    },
+    "portfolio-service-flyer-transporte-terrestre-flyer-mndd12lg-8hbe3": {
+      "path": "media/portfolio-service-flyer-transporte-terrestre-flyer-mndd12lg-8hbe3",
+      "contentType": "file",
+      "updatedAt": "2026-04-01T20:54:56.064Z",
+      "size": 987312
+    },
+    "who-series-img-203": {
+      "path": "media/who-series-img-203",
+      "contentType": "file",
+      "updatedAt": "2026-04-01T20:54:57.198Z",
+      "size": 78797
+    },
+    "who-series-img-204": {
+      "path": "media/who-series-img-204",
+      "contentType": "file",
+      "updatedAt": "2026-04-01T20:54:57.979Z",
+      "size": 78797
+    },
+    "who-series-img-206": {
+      "path": "media/who-series-img-206",
+      "contentType": "file",
+      "updatedAt": "2026-04-01T20:54:58.804Z",
+      "size": 906375
+    }
+  }
+}
