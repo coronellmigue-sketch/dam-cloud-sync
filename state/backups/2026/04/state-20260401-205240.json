@@ -1,0 +1,111 @@
+{
+  "version": 1,
+  "updatedAt": "2026-04-01T20:45:59.421Z",
+  "kv": {
+    "dam-cloud-checkpoint-v1": "{\"version\":1,\"createdAt\":\"2026-04-01T20:46:21.496Z\",\"expectedMediaKeys\":[\"flyer-img-101\",\"flyer-img-102\",\"flyer-img-103\",\"flyer-img-104\",\"flyer-img-105\",\"flyer-img-106\",\"flyer-img-107\",\"flyer-img-108\",\"flyer-img-109\",\"flyer-img-110\",\"who-series-img-201\",\"who-series-img-202\",\"who-series-img-203\",\"who-series-img-204\",\"who-series-img-205\",\"who-series-img-206\",\"dest-series-301\",\"dest-series-302\",\"dest-series-303\",\"dest-series-304\",\"dest-series-305\",\"dest-series-306\",\"dest-series-307\",\"dest-series-308\",\"connect-series-401\",\"connect-series-402\",\"connect-series-403\",\"connect-series-404\",\"connect-series-405\",\"connect-series-406\",\"landing-series-501\",\"portfolio-banner-509\",\"portfolio-series-510\",\"portfolio-series-511\",\"portfolio-series-512\",\"portfolio-series-513\",\"portfolio-series-514\",\"portfolio-series-515\",\"portfolio-series-516\",\"portfolio-series-517\",\"portfolio-series-518\",\"portfolio-series-519\",\"portfolio-series-520\",\"portfolio-series-521\",\"portfolio-series-522\",\"portfolio-series-523\",\"portfolio-series-524\"],\"expectedMediaCount\":47,\"presentExpectedCount\":17,\"presentMediaCount\":17,\"presentMediaKeys\":[\"landing-series-501\",\"portfolio-banner-509\",\"portfolio-series-510\",\"portfolio-series-511\",\"portfolio-series-512\",\"portfolio-series-513\",\"portfolio-series-514\",\"portfolio-series-515\",\"portfolio-series-516\",\"portfolio-series-517\",\"portfolio-series-518\",\"portfolio-series-519\",\"portfolio-series-520\",\"portfolio-series-521\",\"portfolio-series-522\",\"portfolio-series-523\",\"portfolio-series-524\"],\"kvKeyCount\":0}"
+  },
+  "media": {
+    "landing-series-501": {
+      "path": "media/landing-series-501",
+      "contentType": "image/png",
+      "updatedAt": "2026-04-01T20:45:59.424Z",
+      "size": 554251
+    },
+    "portfolio-banner-509": {
+      "path": "media/portfolio-banner-509",
+      "contentType": "image/png",
+      "updatedAt": "2026-04-01T20:46:01.265Z",
+      "size": 2690080
+    },
+    "portfolio-series-510": {
+      "path": "media/portfolio-series-510",
+      "contentType": "image/png",
+      "updatedAt": "2026-04-01T20:46:02.739Z",
+      "size": 2164257
+    },
+    "portfolio-series-511": {
+      "path": "media/portfolio-series-511",
+      "contentType": "image/png",
+      "updatedAt": "2026-04-01T20:46:04.144Z",
+      "size": 1765116
+    },
+    "portfolio-series-512": {
+      "path": "media/portfolio-series-512",
+      "contentType": "image/png",
+      "updatedAt": "2026-04-01T20:46:05.359Z",
+      "size": 1986292
+    },
+    "portfolio-series-513": {
+      "path": "media/portfolio-series-513",
+      "contentType": "image/png",
+      "updatedAt": "2026-04-01T20:46:06.540Z",
+      "size": 834622
+    },
+    "portfolio-series-514": {
+      "path": "media/portfolio-series-514",
+      "contentType": "image/png",
+      "updatedAt": "2026-04-01T20:46:07.757Z",
+      "size": 1338452
+    },
+    "portfolio-series-515": {
+      "path": "media/portfolio-series-515",
+      "contentType": "image/png",
+      "updatedAt": "2026-04-01T20:46:08.778Z",
+      "size": 1092486
+    },
+    "portfolio-series-516": {
+      "path": "media/portfolio-series-516",
+      "contentType": "image/png",
+      "updatedAt": "2026-04-01T20:46:09.864Z",
+      "size": 1554671
+    },
+    "portfolio-series-517": {
+      "path": "media/portfolio-series-517",
+      "contentType": "image/png",
+      "updatedAt": "2026-04-01T20:46:11.006Z",
+      "size": 1463155
+    },
+    "portfolio-series-518": {
+      "path": "media/portfolio-series-518",
+      "contentType": "image/png",
+      "updatedAt": "2026-04-01T20:46:12.234Z",
+      "size": 285643
+    },
+    "portfolio-series-519": {
+      "path": "media/portfolio-series-519",
+      "contentType": "image/png",
+      "updatedAt": "2026-04-01T20:46:13.259Z",
+      "size": 789517
+    },
+    "portfolio-series-520": {
+      "path": "media/portfolio-series-520",
+      "contentType": "file",
+      "updatedAt": "2026-04-01T20:46:14.826Z",
+      "size": 839520
+    },
+    "portfolio-series-521": {
+      "path": "media/portfolio-series-521",
+      "contentType": "file",
+      "updatedAt": "2026-04-01T20:46:15.999Z",
+      "size": 286355
+    },
+    "portfolio-series-522": {
+      "path": "media/portfolio-series-522",
+      "contentType": "image/png",
+      "updatedAt": "2026-04-01T20:46:16.988Z",
+      "size": 1070412
+    },
+    "portfolio-series-523": {
+      "path": "media/portfolio-series-523",
+      "contentType": "file",
+      "updatedAt": "2026-04-01T20:46:18.091Z",
+      "size": 470014
+    },
+    "portfolio-series-524": {
+      "path": "media/portfolio-series-524",
+      "contentType": "image/png",
+      "updatedAt": "2026-04-01T20:46:19.076Z",
+      "size": 7830040
+    }
+  }
+}
