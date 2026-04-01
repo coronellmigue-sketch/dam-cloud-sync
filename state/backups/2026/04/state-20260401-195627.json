@@ -1,0 +1,120 @@
+{
+  "version": 1,
+  "updatedAt": "2026-04-01T19:54:30.228Z",
+  "kv": {
+    "dam-hero-slider-images": "[\"https://images.trvl-media.com/place/926/84235843-5589-4807-8222-da6c37ddf05c.jpg\",\"https://fincaspanacah10.com/wp-content/uploads/slider/cache/8d9943bc57f6a322e73ec6f3ae287c60/VALLE-TOURIST-PAGE.jpg\",\"https://static.vecteezy.com/system/resources/previews/017/724/962/large_2x/happy-family-with-car-travel-road-trip-summer-vacation-in-car-in-the-sunset-dad-mom-and-daughter-happy-traveling-enjoy-together-driving-in-holidays-people-lifestyle-ride-by-automobile-photo.jpg\",\"https://cdn.sanity.io/images/nxpteyfv/goguides/e333536b3cce1642ee7ff42a983cdba034c12feb-1600x1067.jpg\"]",
+    "dam-image-present-105": "1",
+    "dam-image-present-109": "1",
+    "dam-image-present-102": "1"
+  },
+  "media": {
+    "connect-series-402": {
+      "path": "media/connect-series-402",
+      "contentType": "file",
+      "updatedAt": "2026-04-01T19:54:30.231Z",
+      "size": 120402
+    },
+    "connect-series-403": {
+      "path": "media/connect-series-403",
+      "contentType": "file",
+      "updatedAt": "2026-04-01T19:54:31.316Z",
+      "size": 139916
+    },
+    "connect-series-404": {
+      "path": "media/connect-series-404",
+      "contentType": "file",
+      "updatedAt": "2026-04-01T19:54:32.359Z",
+      "size": 178211
+    },
+    "connect-series-405": {
+      "path": "media/connect-series-405",
+      "contentType": "file",
+      "updatedAt": "2026-04-01T19:54:33.231Z",
+      "size": 135528
+    },
+    "connect-series-406": {
+      "path": "media/connect-series-406",
+      "contentType": "file",
+      "updatedAt": "2026-04-01T19:54:34.101Z",
+      "size": 366615
+    },
+    "flyer-img-102": {
+      "path": "media/flyer-img-102",
+      "contentType": "file",
+      "updatedAt": "2026-04-01T19:54:35.184Z",
+      "size": 450533
+    },
+    "flyer-img-105": {
+      "path": "media/flyer-img-105",
+      "contentType": "file",
+      "updatedAt": "2026-04-01T19:54:36.113Z",
+      "size": 114924
+    },
+    "flyer-img-109": {
+      "path": "media/flyer-img-109",
+      "contentType": "file",
+      "updatedAt": "2026-04-01T19:54:36.958Z",
+      "size": 233727
+    },
+    "landing-series-501": {
+      "path": "media/landing-series-501",
+      "contentType": "file",
+      "updatedAt": "2026-04-01T19:54:37.824Z",
+      "size": 554251
+    },
+    "portfolio-series-513": {
+      "path": "media/portfolio-series-513",
+      "contentType": "file",
+      "updatedAt": "2026-04-01T19:54:39.013Z",
+      "size": 834622
+    },
+    "portfolio-series-518": {
+      "path": "media/portfolio-series-518",
+      "contentType": "file",
+      "updatedAt": "2026-04-01T19:54:40.251Z",
+      "size": 285643
+    },
+    "portfolio-series-519": {
+      "path": "media/portfolio-series-519",
+      "contentType": "file",
+      "updatedAt": "2026-04-01T19:54:41.119Z",
+      "size": 789517
+    },
+    "portfolio-series-520": {
+      "path": "media/portfolio-series-520",
+      "contentType": "file",
+      "updatedAt": "2026-04-01T19:54:42.167Z",
+      "size": 839520
+    },
+    "portfolio-series-521": {
+      "path": "media/portfolio-series-521",
+      "contentType": "file",
+      "updatedAt": "2026-04-01T19:54:43.280Z",
+      "size": 286355
+    },
+    "portfolio-series-523": {
+      "path": "media/portfolio-series-523",
+      "contentType": "file",
+      "updatedAt": "2026-04-01T19:54:44.245Z",
+      "size": 470014
+    },
+    "who-series-img-203": {
+      "path": "media/who-series-img-203",
+      "contentType": "file",
+      "updatedAt": "2026-04-01T19:54:45.217Z",
+      "size": 78797
+    },
+    "who-series-img-204": {
+      "path": "media/who-series-img-204",
+      "contentType": "file",
+      "updatedAt": "2026-04-01T19:54:46.095Z",
+      "size": 78797
+    },
+    "who-series-img-206": {
+      "path": "media/who-series-img-206",
+      "contentType": "file",
+      "updatedAt": "2026-04-01T19:54:46.878Z",
+      "size": 906375
+    }
+  }
+}
